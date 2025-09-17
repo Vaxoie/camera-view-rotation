@@ -1,0 +1,5 @@
+{
+  "name": "AI Face Angle Generator",
+  "description": "Upload a portrait to automatically generate four new close-up perspectives of the face using AI, including profile views and detailed close-ups.",
+  "requestFramePermissions": []
+}
